@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jneigh00
 - 👀 I’m interested in video games, basketball, and coding, mainly trying to learn the most possible
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on any HTML or Java Project
+- 🌱 I’m currently learning how to construct and build APIs
+- 💞️ I’m looking to collaborate on any Mobile App Project or any software project
 - 📫 How to reach me ...
 
 <!---
